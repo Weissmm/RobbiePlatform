@@ -12,7 +12,7 @@
 
 Robbie 的跳跃动画Blend Tree设置
 
-![Blend Tree](F:\github\RobbiePlatform\Images\Blend Tree.png)
+![Blend Tree](F:\github\RobbiePlatform\Images\BlendTree.png)
 
 Shadow的Rule Tile设置
 
